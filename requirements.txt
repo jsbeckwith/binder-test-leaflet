@@ -1,5 +1,4 @@
 ipyleaflet
 ipywidgets
 geopandas
-json
 branca
